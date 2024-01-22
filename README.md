@@ -1,3 +1,3 @@
 # q2successStudent
 
-A description of this package.
+Quest 2 Success Student package
